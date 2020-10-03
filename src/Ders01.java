@@ -5,7 +5,7 @@ public class Ders01 {
 		System.out.println("Saat 14:53");
 		System.out.println("Saat 16:03");
 		System.out.println("Saat 16:24");
-		System.out.println("Saat 16:28 - ishak");
+		System.out.println("Saat 16:28 - ishak'i degistirdik");
 		
 	}
 	
